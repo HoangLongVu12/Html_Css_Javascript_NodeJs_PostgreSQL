@@ -1,1 +1,1 @@
-document.firstElementChild.lastElementChild.querySelector("ul").lastElementChild.innerHTML = "Long Hinh";
+document.querySelector("ul").lastElementChild.innerHTML = "Long Hinh";
